@@ -24,7 +24,8 @@
   margin: 1em;
   padding: 1em;
   text-align: center;
-  span, a {
+  span,
+  a {
     display: inline-block;
     margin-right: 0.5em;
     &:last-child {
@@ -80,7 +81,7 @@ export default {
       const comment = prompt();
       if (!comment) return;
       refItem.child(this.userUid).push({
-        comment,
+        comment
       });
     },
     removeUserItem(id) {
