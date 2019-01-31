@@ -1,4 +1,4 @@
-kayac-vue-starter
+firebase-demo
 ====
 **Vue CLIベースの開発環境になります。**
 

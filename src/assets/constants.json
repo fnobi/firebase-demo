@@ -2,8 +2,8 @@
   "SITE_ORIGIN": "https://example.com/",
   "BASE_PATH": "/",
   "META": {
-    "TITLE": "kayac-vue-starter",
-    "DESCRIPTION": "kayac-vue-starter web page.",
+    "TITLE": "firebase-demo",
+    "DESCRIPTION": "firebase-demo web page.",
     "KEYWORDS": "vue-cli,vue.js",
     "SHARE_IMAGE_PATH": "ogp.png"
   }
